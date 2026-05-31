@@ -34,3 +34,5 @@ A modern SaaS-style landing page for a fictional AI productivity platform, built
 ## Usage
 
 Open `index.html` in any modern browser. No build tools, frameworks, or external libraries required.
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
